@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Alexander Lazar, a former Astrophysicist now turning Data Scientist with strong background in mathematics, statistics, and programming. 
+
+I completed my PhD in Physics at Univerity of California in Irvine (focus on computational astrophysics and cosmology) and Bachelor in Science at the Univeristy of Texas at Austin with majors in Physics and Astronomy. 
 
 <!--
 **alexandres-lazar/alexandres-lazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
