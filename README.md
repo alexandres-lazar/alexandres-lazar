@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Alexander Lazar, an Astrophysicist now turning Data Scientist with strong background in mathematics, statistics, and programming. I enjoy debeloping systems and leveraging big data to solve intricate and open-ended problems. I am a highly trained problem solver with experience in leading independent analyses, communicating complex ideas in a digestible manner, and mentoring individuals of all backgrounds.
+I'm Alexander Lazar, an Astrophysicist now turning Data Scientist with a strong background in mathematics, statistics, and programming. I enjoy developing systems and leveraging big data to solve intricate and open-ended problems. I am a highly trained problem solver with experience in leading independent analyses, communicating complex ideas in a digestible manner, and mentoring individuals of all backgrounds.
 
 I will soon complete my PhD in Physics at Univerity of California in Irvine (with focus on computational astrophysics and cosmology) and Bachelor in Science at the Univeristy of Texas at Austin with majors in Physics and Astronomy. 
 
